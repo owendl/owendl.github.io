@@ -2,122 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My name is Drew Owen. I am a data scientist living in Atlanta, GA, USA.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Short Bio
+My father was in the military so by the time I was 10 I had lived on three continents. I came to Georgia Tech for undergraduate and received a BS in Mechanical Engineering. For somewhat of a change of pace for me, I stayed and GT for graduate school and completed a PhD from the Bioengineering program, focusing on MEMS and Microfluidics (![publications to be added]()).
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Other Interests
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Maker projects
 
-```
-The final element.
-```
+Based on my previous engineering education, I still dabble in projects in the world of atoms via machining and 3D printing:
+* ![FSU Chief Osceola Logo](https://a360.co/3Q0gRDh) for my brother-in-law. It was part of sibling Secret Santa exchange where the emphasis was on hand-made (or in my case hand-drawn and then machine printed)
+* ![Small gap-filler](https://a360.co/3SqW0bM) for a toy car track in our local park. My son loves playing on this track and there was a samll gap in it. I saw a problem and wanted to fix it for all the neighbor kids that bring their cars to the park (and there are many of them). 
+* ![Wing](https://a360.co/3Q0gRDh) for a ![Jay Garrick Flash](https://hyperborea.org/flash/jay.html) helmet. I originally used this design for a full-size helmet that I would wear to DragonCon but this file is a shrunk down version that I used to fix a small Jay Garrick statue I owned who's wings had broken off.
