@@ -5,8 +5,7 @@ layout: default
 My name is Drew Owen. I am a data scientist living in Atlanta, GA, USA.
 
 ## Short Bio
-My father was in the military so by the time I was 10 I had lived on three continents. I came to Georgia Tech for undergraduate and received a BS in Mechanical Engineering. For somewhat of a change of pace for me, I stayed in one place and continued on at GT for graduate school and completed a PhD from the Bioengineering program, focusing on MEMS and Microfluidics ([publications to be added]()).
-
+My father was in the military so by the time I was 10 I had lived on three continents. I came to Georgia Tech for undergraduate and received a BS in Mechanical Engineering. For somewhat of a change of pace for me, I stayed in one place and continued on at GT for graduate school and completed a PhD from the Bioengineering program, focusing on MEMS and Microfluidics ([publications to be added](./publications.html)).
 
 
 ## Other Interests
